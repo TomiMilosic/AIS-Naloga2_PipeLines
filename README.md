@@ -1,7 +1,8 @@
 # AIS-Naloga2_PipeLines
+
 Simuliranje oddaljenjega kalkulatorja s pomočjo pimenovanih cevi.
 
-Primer komunikacije na odjemalcu, kjer ni prišlo do napake (odebeljeno so zapisani vnosi uporabnika)
+Primer komunikacije na odjemalcu, kjer ni prišlo do napake (odebeljeno so zapisani vnosi uporabnika):
 
 Povezan s strežnikom
 Vnesite prvo število kalkulatorju.
